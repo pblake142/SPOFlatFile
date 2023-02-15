@@ -1,5 +1,11 @@
 # SPOFlatFile
 
+## LOL
+
+This entire body of work was functionally achieved with the Get-SPOTenant cmdlet, as you can see from the other files. I will be reviewing this and updating it as we move forward. I think that this is a pretty flat output, and will return to this repo once I have a better understanding of what I am looking for.
+
+I suspect that the next game here is to attempt to restore from a file likke this.
+
 ## Details
 
 This is not a functional code repo yet, pls ignore.
